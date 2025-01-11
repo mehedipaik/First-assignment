@@ -1,0 +1,196 @@
+/* font style section */
+.work-sans-uniquifier {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+/* first section */
+.head-1{
+  font-family:"Work Sans", serif ;
+  display: flex;
+  justify-content: space-between;
+  width: 1280px;
+  margin: auto;
+  padding:80px;
+}
+/* first section button */
+.sign-option{
+  border: 1px solid #006A50;
+  border-radius: 8px;
+  padding: 15px 30px;
+  color: #006A50;
+  font-size: 18px;
+  font-weight: bold;
+}
+/* 2nd section  */
+.section-1{
+  display: flex;
+  justify-content: space-between;
+  background-color: #C6E4D6;
+  border-radius: 8px;
+  width: 1280px;
+  margin: auto;
+  font-family:"Work Sans", serif;
+
+
+}
+.intro-section{
+  padding: 80px;
+}
+.inro-sectio-first-head{
+ font-size: 18px;
+ font-weight: bold;
+ color:#0E0E0E ;
+}
+.intro-section-second-head{
+  font-size: 56px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+.btn-2{
+  background-color: #006A50;
+  color: white;
+  font-family:"Work Sans", serif ;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 34px 17px;
+  border-radius: 8px;
+  border: none;
+}
+/* pillar option */
+  .pillar-head-lone{
+    font-family:"Work Sans", serif ;
+    font-size: 40px;
+    font-weight: bold;
+    width: 1280px;
+    margin: auto;
+  }
+/* section 3 */
+.box-icon-section{
+  display: flex;
+  gap: 25px;
+  width: 1280px;
+  margin: auto;
+}
+.icon-intro-1{
+  gap: 25 px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 24px;
+
+}
+/* section-4 */
+  .sectino-4-head{
+    font-family:"Work Sans", serif ;
+    font-size: 40px;
+    font-weight: bold;
+    width: 1280px;
+    margin: auto;
+  }
+.dec{
+    font-size: 16px;
+    color: #0E0E0E;
+    width: 1280px;
+    margin: auto;
+    font-family:"Work Sans", serif ;
+  }
+  /* section 5 */
+  .section-5-box{
+    display: flex;
+    gap: 24px;
+    width: 1280px;
+    margin: auto;
+    padding: 32px;
+  
+  }
+  .section-5-head{
+    font-family:"Work Sans", serif ;
+    font-size: 20px;
+    font-weight: bold;
+    color:#0E0E0E ;
+  }
+  .section-5-dec{
+    font-family:"Work Sans" serif ;
+    font-size: 16px;
+    color: #0E0E0E ;
+  }
+  .incon-img{
+    background-color: #8fa9d6;
+    padding: 32px;
+    border-radius: 8px;
+    width: 410.67;
+    
+  }
+  .incon-img-2{
+    background-color: #C6E4D6;
+    padding: 32px;
+    border-radius: 8px;
+    width: 410.67;
+    
+  }
+  .incon-img-3{
+    background-color: #F7EBCF;
+    padding: 32px;
+    border-radius: 8px;
+    width: 410.67;
+
+    
+  }
+  /* icon img button section */
+.icon-img-button{
+  background-color: #5490F5;
+  border: none;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: "Work Sans" serif;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 11px 20px;
+
+}
+.icon-img-button-2{
+  background-color: #09A15C;
+  border: none;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: "Work Sans" serif;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 11px 20px;
+
+}
+.icon-img-button-3{
+  background-color: #FFC239;
+  border: none;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: "Work Sans" serif ;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 11px 20px;
+  text-decoration: none;
+}
+/* section 6 */
+.section-6{
+  background-image: url(../images/quote-bg.png);
+  background-repeat: no-repeat;
+  width: 1280px;
+  margin: auto;
+}
+.section-6-icon-content{
+  padding:24px ;
+  width: 1280px;
+  margin: auto;
+}
+.section-6-dec{
+  font-family:"Work Sans" serif ;
+  font-size: 16px;
+  width: 12;
+
+}
+  .section-6-head{
+    font-family:"Work Sans", serif ;
+    font-size: 20px;
+    font-weight: bold;
+  }
