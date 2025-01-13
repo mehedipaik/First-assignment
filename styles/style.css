@@ -219,6 +219,7 @@
   .table-data-opt{
     background-color: #C6E4D6;
     padding: 10px 14px;
+    width: ;
   }
 
 
@@ -401,7 +402,6 @@
 }
 /* footer */
 .main-footer{
-  width: 1280px;
   margin: auto;
   text-align: center;
   width: 1600px;
